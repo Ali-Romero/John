@@ -56,10 +56,9 @@
   font-size: 16px;
   line-height: 23px;
   font-weight: bold; }
-  .menu__link:hover {
-    color: #FF6464; }
-  .menu__link--current {
-    color: #FF6464; }
+
+.active-link {
+  color: red; }
 
 .icon-works,
 .icon-block,
