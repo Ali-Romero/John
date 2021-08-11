@@ -10,8 +10,8 @@ const fontName = 'icons';
 
 const configCss = {
   fontName: fontName,
-  targetPath: 'icons.css',
-  fontPath: 'icons/'
+  targetPath: '/icons.css',
+  fontPath: ''
 }
 
 const configFont = {
